@@ -42,27 +42,27 @@ async function addPlaylist(plainText, delay = 200) {
   console.log("--- completed ---");
 }
 
-const plainText = `
-Carsie Blanton - Two Sleepy People
-Kat Edmonson - 'S Wonderful
-BLOSSOM DEARIE - Tout Doucement
-Silje Nergaard - Dream A Little Dream
-Stacey Kent - All I Do Is Dream Of You
-Delicatessen - You're getting to be a habit with me
-Matthieu Bore - It's A Good Day
-Nancy Wilson - I Wish You Love
-Stacey Kent - It Might As Well Be Spring
-Carsie Blanton - Heavenly Thing
-Girls from Mars - Spring Cleaning
-Eva sur Seine - Stompin' at the Savoy
-BLOSSOM DEARIE - They Say It's Spring
-Catherine Russell - As Long As I Live
-Diana Panton - Destination Moon
-Caity Gyorgy - A Certain Someone
-Alexis Cole, Bucky Pizzarelli - A Beautiful Friendship
-Kat Edmonson - Mountain Greenery
-Jeri Southern - It's Delovely
-Delicatessen - Don't be that way
-Joan Chamorro - Easy Living
-`;
-addPlaylist(plainText);
+// const plainText = `
+// Carsie Blanton - Two Sleepy People
+// Kat Edmonson - 'S Wonderful
+// BLOSSOM DEARIE - Tout Doucement
+// Silje Nergaard - Dream A Little Dream
+// Stacey Kent - All I Do Is Dream Of You
+// Delicatessen - You're getting to be a habit with me
+// Matthieu Bore - It's A Good Day
+// Nancy Wilson - I Wish You Love
+// Stacey Kent - It Might As Well Be Spring
+// Carsie Blanton - Heavenly Thing
+// Girls from Mars - Spring Cleaning
+// Eva sur Seine - Stompin' at the Savoy
+// BLOSSOM DEARIE - They Say It's Spring
+// Catherine Russell - As Long As I Live
+// Diana Panton - Destination Moon
+// Caity Gyorgy - A Certain Someone
+// Alexis Cole, Bucky Pizzarelli - A Beautiful Friendship
+// Kat Edmonson - Mountain Greenery
+// Jeri Southern - It's Delovely
+// Delicatessen - Don't be that way
+// Joan Chamorro - Easy Living
+// `;
+// addPlaylist(plainText);
